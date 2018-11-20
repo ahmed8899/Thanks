@@ -1,0 +1,16 @@
+ body {background-image:url("https://www.myperfectresume.com/wp-content/uploads/2018/02/resume-builder_thank-you-note-300x199.jpg")
+   
+   }
+
+body {
+    color: green;
+}
+
+h1 {
+    color: green;
+}
+
+.callout {
+  background-color: lightgray;
+  padding: 10px;
+}
